@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message for Arna</title>
+</head>
+<body>
+    <h1 id="message"></h1>
+    <script>
+        // Display the message
+        document.getElementById("message").textContent = "I'm so proud of you no matter what. I love you, Arna.";
+    </script>
+</body>
+</html>
